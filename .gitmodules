@@ -1,3 +1,6 @@
 [submodule "3D_BuildingModeling"]
 	path = 3D_BuildingModeling
 	url = https://github.com/pkhigh/3D_BuildingModeling.git
+[submodule "BuildingWindows"]
+	path = BuildingWindows
+	url = https://github.com/pcuci/DualGAN.git
